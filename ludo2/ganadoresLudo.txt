@@ -1,0 +1,2 @@
+el ganador de la partida es el jugador azul
+el ganador de la partida es el jugador rojo
